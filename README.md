@@ -1,2 +1,2 @@
 # Automatizacao-de-Tarefa-com-Python
-Automação de tarefa de diária de envio do relatório do dia anterior para equipe.
+Automatização de tarefa de diária de envio do relatório do dia anterior para equipe.
